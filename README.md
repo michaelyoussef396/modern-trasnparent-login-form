@@ -7,3 +7,5 @@ langaues used
 
 - html
 - css
+
+font-family: Arial, Helvetica, sans-serif;
